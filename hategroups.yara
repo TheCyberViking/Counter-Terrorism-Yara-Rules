@@ -1,6 +1,4 @@
-hategroups.yara
-
-Rule username_capture
+Rule hategroups
 {
 	Meta:
 hategroups.yara
