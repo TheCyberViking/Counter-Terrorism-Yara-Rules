@@ -1,6 +1,4 @@
-hasmatlist.yara
-
-Rule username_capture
+Rule hasmatlist
 {
 	Meta:
 		Author = “@TheCyberViking”
