@@ -1,6 +1,4 @@
-terrorgroups.yara
-
-Rule username_capture
+Rule terrorgroups
 {
 	Meta:
 		Author = “@TheCyberViking”
